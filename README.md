@@ -3,6 +3,8 @@
 Frame part of your webcam view with your thumbs and index fingers, and
 everything inside turns into a live, shimmering neon visual.
 
+https://github.com/user-attachments/assets/2e066e34-b4f2-4829-ad6b-c5874659e36a
+
 Built with Python, OpenCV and MediaPipe.
 
 ## Setup
